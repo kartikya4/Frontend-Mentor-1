@@ -1,0 +1,120 @@
+body{
+    font-family: 'Poppins', sans-serif;
+    text-align:center;
+    font-size:15px;
+    background-color: hsl(0, 0%, 98%);
+    padding-top: 50px;;    
+}
+
+.top-heading{
+    font-weight:200;
+}
+
+h3{
+    color: #27496D;
+}
+p{
+    color:hsl(229, 6%, 66%);
+}
+
+.top-container{
+    width:40%;
+    margin:0 auto 50px auto;
+}
+
+.team-builder{
+    border-top:4px solid hsl(0, 78%, 62%);
+    border-radius: 4px;
+    width:25%;
+    margin:20px;
+    padding:20px;
+    height:230px;
+    position:absolute;
+    left:466px;
+    top:350px;
+    text-align:left;
+    box-shadow:3px 3px 3px 3px hsl(229, 6%, 66%);
+}
+
+.team-builder-img{
+    position:absolute;
+    right:25px;
+    bottom:25px;
+}
+
+.supervisor{
+    border-top:4px solid hsl(180, 62%, 55%);
+    border-radius: 4px;
+    width:27%;
+    margin:20px;
+    padding:20px;
+    position:absolute;
+    top:500px;
+    left:50px;
+    height:230px;
+    text-align:left;
+    box-shadow:3px 3px 3px 3px hsl(229, 6%, 66%);
+}
+
+.supervisor-img{
+    position:absolute;
+    right:25px;
+    bottom:25px;
+}
+
+.karma{
+    border-top:4px solid hsl(34, 97%, 64%);
+    border-radius: 4px;
+    width:25%;
+    margin:20px 20px 20px 20px;
+    padding:20px;
+    height:230px;
+    position:absolute;
+    left:466px;
+    top: 650px;
+    text-align:left;
+    box-shadow:3px 3px 3px 3px hsl(229, 6%, 66%);
+}
+
+.karma-img{
+    position:absolute;
+    right:25px;
+    bottom:25px;
+}
+
+.calculator{
+    border-top:4px solid hsl(212, 86%, 64%);
+    border-radius: 4px;
+    width:27%;
+    margin:20px;
+    padding:20px;
+    text-align:left;
+    position:absolute;
+    top:500px;
+    right:50px;
+    height:230px;
+    box-shadow:3px 3px 3px 3px hsl(229, 6%, 66%);
+}
+
+.calculator-img{
+    position:absolute;
+    right:25px;
+    bottom:25px;
+}
+
+.bottom-container{
+    background-color: hsl(234, 12%, 34%);
+    margin:50px 0px auto 0px;
+    position:absolute;
+    bottom:-450px;
+    width:100%;
+}
+
+a{
+    text-decoration: none;
+    color:#FFA299;
+}
+
+a:hover{
+    color:#F1EBBB;
+}
